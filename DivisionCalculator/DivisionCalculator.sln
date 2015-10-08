@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisionCalculator", "DivisionCalculator\DivisionCalculator.csproj", "{89DBD5BA-D934-429C-9524-FDB4D5247BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DBD5BA-D934-429C-9524-FDB4D5247BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DBD5BA-D934-429C-9524-FDB4D5247BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DBD5BA-D934-429C-9524-FDB4D5247BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DBD5BA-D934-429C-9524-FDB4D5247BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
